@@ -30,10 +30,6 @@ This dataset contains employee demographic and employment information, including
 - Ohio is the state with the most employees with 18,025, far ahead of the second-placed Pennsylvania (1,115). Wisconsin is the state with the fewest employees (382).
 - The difference (net change) between the number of new employees hired and the number of employees leaving, has generally increased steadily over the years. There was a slight decrease from 2000 to 2005, but then it increased steadily again
 - The average tenure in most departments is over 9 years. Of which, the longest is the Sales department with about over 11 years.
-### Dashboard: 
-![Image](https://github.com/user-attachments/assets/b6db5760-1303-40e0-bf4b-d92a47b492bf)
-![Image](https://github.com/user-attachments/assets/09ece3a0-0432-4998-98eb-439365e23cfe)
-![Image](https://github.com/user-attachments/assets/7b095f1e-5ac6-4764-a383-daf9a2fa217e)
-![Image](https://github.com/user-attachments/assets/93800470-b67b-4a23-9b61-ed43c773d675)
-![Image](https://github.com/user-attachments/assets/94125d9d-ee71-4505-a29a-70d4faa46b0b)
+### Dashboard (Using DAX to help build dashboard): 
+![Image](https://github.com/user-attachments/assets/093ac669-bb67-407d-89cf-aaf74d0d9c07)
 
