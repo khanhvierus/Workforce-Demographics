@@ -1,6 +1,6 @@
 ## Workforce-Demographics
 ### Problem Statement: 
-This dataset contains employee demographic and employment information, including personal details , job-related attributes and employment history. The project aims to analyze workforce distribution, diversity, tenure, turnover, and geographic spread, in order to uncover key insights that support HR decision-making and organizational planning. 
+This dataset contains employee demographic and employment information, including personal details , job-related attributes and employment history.The project aims to analyze workforce distribution, diversity, tenure, turnover, and geographic spread, in order to uncover key insights that support HR decision-making and organizational planning. 
 
 ### Data and tools used: 
 - HR Data with over 22000 rows from the year 2000 to 2020
