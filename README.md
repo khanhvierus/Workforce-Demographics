@@ -31,5 +31,6 @@ This dataset contains employee demographic and employment information, including
 - The difference (net change) between the number of new employees hired and the number of employees leaving, has generally increased steadily over the years. There was a slight decrease from 2000 to 2005, but then it increased steadily again
 - The average tenure in most departments is over 9 years. Of which, the longest is the Sales department with about over 11 years.
 ### Dashboard (Using DAX to help build dashboard): 
-![Image](https://github.com/user-attachments/assets/66376dd3-2d98-4fca-86d6-99958444dd4d)
+[image3.bmp](https://github.com/user-attachments/files/22425038/image3.bmp)
+
 
